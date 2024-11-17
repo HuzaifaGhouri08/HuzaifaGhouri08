@@ -1,6 +1,6 @@
 ![logo](https://github.com/HuzaifaGhouri08/HuzaifaGhouri08/blob/main/Banner.png) 
 <h1 align="center">Hi 👋, I'm Huzaifa Ghouri</h1>
-<h3 align="center">Junior Developer from Karachi Pakistan</h3>
+<h3 align="center">Front-end Developer from Karachi Pakistan</h3>
 
 <img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiiI8D5tVRzORcf97CXziyTJ4Jg1_bZSdSajOVkyXX&s" alt="coding">
 
