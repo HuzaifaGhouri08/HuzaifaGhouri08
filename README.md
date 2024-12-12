@@ -46,7 +46,14 @@
 <p align="center">
     <a href="https://github.com/Huzaifaghouri08">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifaghouri08&langs_count=12&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifaghouri08&langs_count=12&layout=compact&langs_count=8&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" />
+         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifaghouri08&langs_count=12&layout=compact&langs_count=8&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true" />
+         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifaghouri08&langs_count=12&layout=compact&langs_count=8&theme=monokai&include_all_commits=true&count_private=true&hide_border=true" />
+         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifaghouri08&langs_count=12&layout=compact&langs_count=8&theme=nord&include_all_commits=true&count_private=true&hide_border=true" />
+         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifaghouri08&langs_count=12&layout=compact&langs_count=8&theme=solarized-dark&include_all_commits=true&count_private=true&hide_border=true" />
+         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifaghouri08&langs_count=12&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
+    </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaghouri08&" alt="huzaifaghouri08" /></p>
 
