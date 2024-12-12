@@ -42,6 +42,12 @@
 ### Currently Learning
 [![Learning](https://skillicons.dev/icons?i=mongodb,express,nodejs)](https://skillicons.dev)
 
+## Github Stats:
+<p align="center">
+    <a href="https://github.com/Huzaifaghouri08">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaghouri08&" alt="huzaifaghouri08" /></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer" alt="footer"/>
