@@ -32,15 +32,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaghouri08&" alt="huzaifaghouri08" /></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaghouri08&show_icons=true&theme=tokyonight" alt="huzaifaghouri08's GitHub Stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaghouri08&show_icons=true&theme=tokyonight" alt="YOUR_USERNAME's GitHub Stats" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=huzaifaghouri08" alt="huzaifaghouri08's GitHub Trophy Case" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=huzaifaghouri08&langs=1" alt="huzaifaghouri08's top languages" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=huzaifaghouri08&type=calendar" alt="huzaifaghouri08's GitHub Activity Heatmap" />
-
-[![Visitors](https://api.visitorbadge.io/api/badges/huzaifaghouri08)](https://github.com/huzaifaghouri08)
