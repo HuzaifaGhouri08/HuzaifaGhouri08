@@ -26,10 +26,17 @@
 <a href="https://www.youtube.com/c/snipereyeff153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="snipereyeff153" height="30" width="40" /></a>
 </p>
 
-### Languages & Tools
+## Connect With Me
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=social&logo=github" alt="GitHub" />](https://github.com/your_github_username)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/your_linkedin_profile_url)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter" alt="Twitter" />](https://twitter.com/your_twitter_handle)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube" alt="YouTube" />](https://www.youtube.com/channel/your_youtube_channel_url)
+
+## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,tailwind,github,git,mysql,ai,ps)](https://skillicons.dev)
 
-### Currently Learning
+## Currently Learning
 [![Learning](https://skillicons.dev/icons?i=mongodb,express,nodejs)](https://skillicons.dev)
 
 ## Github Stats:
