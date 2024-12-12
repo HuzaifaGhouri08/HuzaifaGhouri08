@@ -35,4 +35,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaghouri08&show_icons=true&theme=tokyonight" alt="huzaifaghouri08's GitHub Stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="YOUR_USERNAME's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaghouri08&show_icons=true&theme=tokyonight" alt="YOUR_USERNAME's GitHub Stats" />
