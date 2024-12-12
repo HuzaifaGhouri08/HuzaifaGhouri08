@@ -28,10 +28,20 @@
 
 ## Connect With Me
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=social&logo=github" alt="GitHub" />](https://github.com/your_github_username)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/your_linkedin_profile_url)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter" alt="Twitter" />](https://twitter.com/your_twitter_handle)
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube" alt="YouTube" />](https://www.youtube.com/channel/your_youtube_channel_url)
+<p align="center">
+  <a href="https://github.com/your_github_username">
+    <img src="https://github.com/your_github_username/your_github_username/blob/main/assets/github_logo.png" alt="GitHub Logo" width="30"> 
+  </a>
+  <a href="https://www.linkedin.com/in/your_linkedin_profile_url">
+    <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn Logo" width="30"> 
+  </a>
+  <a href="https://twitter.com/your_twitter_handle">
+    <img src="https://abs.twimg.com/favicons/twitter.ico" alt="Twitter Logo" width="30">
+  </a>
+  <a href="mailto:your_email_address">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0T/////wAAAABJRU5ErkJggg==" alt="Email Logo" width="30"> 
+  </a> 
+</p>
 
 ## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,tailwind,github,git,mysql,ai,ps)](https://skillicons.dev)
