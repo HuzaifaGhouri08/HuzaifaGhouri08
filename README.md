@@ -32,3 +32,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaghouri08&" alt="huzaifaghouri08" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifaghouri08&show_icons=true&theme=tokyonight" alt="huzaifaghouri08's GitHub Stats" />
