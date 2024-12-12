@@ -24,14 +24,24 @@
 <a href="https://x.com/huzaifaghouri88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huzaifaghouri88" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/huzaifaghouri/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="prince_huzzie" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/c/snipereyeff153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="snipereyeff153" height="30" width="40" /></a>
-</p>
-
-## Connect With Me
-
-[<img src="https://img.shields.io/badge/GitHub-100000?style=social&logo=github" alt="GitHub" />](https://github.com/your_github_username)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/your_linkedin_profile_url)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter" alt="Twitter" />](https://twitter.com/your_twitter_handle)
-[<img src="https://img.shields.io/badge/Email-C1C1C1?style=social" alt="Email" />](mailto:your_email_address)
+</p>### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://dev.to/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+    </a>
+    <a href="https://www.credly.com/users/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
+    </a>
+    <a href="https://www.artstation.com/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/1206188f-4274-4240-93e6-0dfc1919f9f0" alt="Art Station" width="33" height="33"/>
+    </a>
+    <a href="https://medium.com/@daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
+    </a>
+</div>
 
 ## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,tailwind,github,git,mysql,ai,ps)](https://skillicons.dev)
