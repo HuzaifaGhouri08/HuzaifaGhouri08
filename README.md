@@ -23,8 +23,7 @@
 
 - 📫 How to reach me **Huzaifaam991@gmail.com**
 
-<h1>Connect with me!</h1>>
-## Connect with me!
+<h2>Connect with me!</h2>>
 <p align="left">
 <a href="https://x.com/huzaifaghouri88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huzaifaghouri88" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/huzaifaghouri/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="prince_huzzie" height="30" width="40" /></a> 
