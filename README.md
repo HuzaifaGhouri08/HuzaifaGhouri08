@@ -21,7 +21,7 @@
   
 </a>
 <h1 align="center">Hi 👋, I'm Huzaifa Ghouri</h1>
-<h2 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Huzaifa Ghouri</h2>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Huzaifa Ghouri</h1>
 
 <h3 align="center">Front-end Developer from Karachi Pakistan</h3>
 
