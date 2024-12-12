@@ -39,7 +39,7 @@
 <p align="center">
 <a href="https://github.com/Huzaifaghouri08">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifaghouri08&langs_count=12&layout=compact&langs_count=8&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=creativetimofficial&langs_count=12&layout=compact&langs_count=8&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mschwarzmueller&langs_count=6&layout=compact&langs_count=8&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
     
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifaghouri08&theme=highcontrast&hide_border=true">
