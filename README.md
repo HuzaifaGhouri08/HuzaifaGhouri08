@@ -49,13 +49,8 @@
     <a href="https://github.com/Huzaifaghouri08">
          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huzaifaghouri08&langs_count=12&layout=compact&langs_count=8&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
-    </p>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifaghouri08&theme=tokyonight&hide_border=true">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifaghouri08&theme=highcontrast&hide_border=true">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaghouri08&theme=highcontrast" alt="huzaifaghouri08" /></p>
-
+ </p>
+ 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer" alt="footer"/>
 
