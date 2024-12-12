@@ -1,6 +1,10 @@
-![logo](https://github.com/HuzaifaGhouri08/HuzaifaGhouri08/blob/main/Banner.png) 
+![logo](https://github.com/HuzaifaGhouri08/HuzaifaGhouri08/blob/main/Banner.png)
+   <p align="center">
 <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=32CD32&width=435&lines=Hello%2C+it's+Huzaifa+Ghouri;Web+Developer" alt="Web Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=32CD32&width=435&lines=Hello%2C+it's+Huzaifa+Ghouri;Web+Developer" alt="Web Developer"/>  <p/>
+
+ 
+  
 </a>
 <h1 align="center">Hi 👋, I'm Huzaifa Ghouri</h1>
 <h3 align="center">Front-end Developer from Karachi Pakistan</h3>
