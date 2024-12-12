@@ -6,22 +6,10 @@
     But may I please ask you to follow me in return? Just a click!
     You may also want to connect with me on LinkedIn @huzaifaghouri :))
 -->
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header" alt="header"/> 
-
 ![logo](https://github.com/HuzaifaGhouri08/HuzaifaGhouri08/blob/main/Banner.png)
 
-  <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=32CD32&width=435&lines=Hello%2C+it's+Huzaifa+Ghouriiiiiiiiiiiiiiiiiiiiiiiiii;Web+Developer" alt="Web Developer"/>
-  </a>
-</p>
-
- 
-  
 </a>
-<h1 align="center">Hi 👋, I'm Huzaifa Ghouri</h1>
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Huzaifa Ghouri</h1>
+<h1 align="center">Hi &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Huzaifa Ghouri</h1>
 
 <h3 align="center">Front-end Developer from Karachi Pakistan</h3>
 
