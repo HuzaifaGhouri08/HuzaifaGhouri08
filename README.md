@@ -1,6 +1,6 @@
 ![logo](https://github.com/HuzaifaGhouri08/HuzaifaGhouri08/blob/main/Banner.png) 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Huzaifa+Ghouri;Web+Developer" alt="Web Developer"/>
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=32CD32&width=435&lines=Hello%2C+it's+Huzaifa+Ghouri;Web+Developer" alt="Web Developer"/>
 </a>
 <h1 align="center">Hi 👋, I'm Huzaifa Ghouri</h1>
 <h3 align="center">Front-end Developer from Karachi Pakistan</h3>
