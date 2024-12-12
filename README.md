@@ -1,3 +1,14 @@
+<!--
+    Hey there, I'm Huzaifa Ghouri!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @huzaifaghouri :))
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header" alt="header"/> 
+
 ![logo](https://github.com/HuzaifaGhouri08/HuzaifaGhouri08/blob/main/Banner.png)
 
   <p align="center">
