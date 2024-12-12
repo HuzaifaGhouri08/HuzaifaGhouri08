@@ -41,4 +41,8 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,js,react,next,html,css,bootstrap,ps,ts,tailwind,nextjs,ai)](https://skillicons.dev)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaghouri08&" alt="huzaifaghouri08" /></p>
