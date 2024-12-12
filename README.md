@@ -31,9 +31,7 @@
 ### Currently Learning
 [![Learning](https://skillicons.dev/icons?i=mongodb,express,nodejs)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifaghouri08&theme=tokyonight" alt="huzaifaghouri08's GitHub Stats">
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaghouri08&theme=tokyonight" alt="huzaifaghouri08" /></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer" alt="footer"/>
 
