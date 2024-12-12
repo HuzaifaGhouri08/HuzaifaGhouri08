@@ -42,7 +42,9 @@
 </p>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,tailwind,github,git,mysql,mongodb,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,tailwind,github,git,mysql,ai,ps)](https://skillicons.dev)
 
+### Studying
+[![Learning](https://skillicons.dev/icons?i=mongodb,express,nodejs)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaghouri08&" alt="huzaifaghouri08" /></p>
