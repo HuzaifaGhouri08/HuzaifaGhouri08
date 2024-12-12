@@ -57,7 +57,7 @@
     </a>
     </p>
     
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifaghouri08&theme=highcontrast&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifaghouri08&theme=tokyonight&hide_border=true">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifaghouri08&" alt="huzaifaghouri08" /></p>
 
