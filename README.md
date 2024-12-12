@@ -27,16 +27,18 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifaghouri08&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifaghouri08" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=huzaifaghouri08&label=Profile%20views&color=0e75b6&style=flat" alt="huzaifaghouri08" /> </p>
 
 - 📫 How to reach me **Huzaifaam991@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/huzaifaghouri88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huzaifaghouri88" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/huzaifaghouri/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="prince_huzzie" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/c/snipereyeff153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="snipereyeff153" height="30" width="40" /></a>
-</p>### Connect with me!
+</p>
+
+## Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/daria-stanilevici/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
