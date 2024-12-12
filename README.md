@@ -14,9 +14,10 @@
 <h3 align="center">Front-end Developer from Karachi Pakistan</h3>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/daria-stanilevici/daria-stanilevici/blob/main/assets/about_daria.gif?raw=true" alt="coding">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6772696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding">
+  <img src="https://github.com/daria-stanilevici/daria-stanilevici/blob/main/assets/about_daria.gif?raw=true" alt="coding" style="width: 400;"> 
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e67726962626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" style="width: 400;">
 </div>
+
 <div>
 <img src="https://github.com/daria-stanilevici/daria-stanilevici/blob/main/assets/about_daria.gif?raw=true" alt="coding">
 </div>
