@@ -1,5 +1,5 @@
 <!--
-    Hey there, I'm Huzaifa Ghouri!
+    Hey Guys, I'm Huzaifa Ghouri!
     Happy to see you here exploring my README code
     Feel free to inspire!
     
@@ -9,7 +9,7 @@
 ![logo](https://github.com/HuzaifaGhouri08/HuzaifaGhouri08/blob/main/Banner.png)
 
 </a>
-<h1 align="center">Hi &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Huzaifa Ghouri</h1>
+<h1 align="center">Hi &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> I'm Huzaifa Ghouri</h1>
 
 <h3 align="center">Front-end Developer from Karachi Pakistan</h3>
 
