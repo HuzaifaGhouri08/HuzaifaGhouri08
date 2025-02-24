@@ -33,7 +33,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,tailwind,github,git,mysql,ai,ps)](https://skillicons.dev)
 
 ## Currently Learning
-[![Learning](https://skillicons.dev/icons?i=python,pandas,scikitlearn,tensorflow,openai,mongodb,express,nodejs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=python,pandas,scikitlearn,tensorflow,python,pandas,numpy,scikitlearn,tensorflow,pytorch,keras,opencv,nltk,spacy,transformers,openai,langchain,selenium,flask,django,git,docker,aws,azure,gcpopenai,mongodb,express,nodejs)](https://skillicons.dev)
 
 ## Github Stats:
 <p align="center">
